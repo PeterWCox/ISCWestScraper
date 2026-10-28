@@ -1,0 +1,1 @@
+{"name":"standlist","version":"1.0.0","type":"module","scripts":{"dev":"node server.js","start":"node server.js","build":"vite build","test":"node --test"},"dependencies":{"exceljs":"^4.4.0","express":"^5.1.0","lucide-react":"^0.468.0","playwright":"^1.55.0","react":"^19.1.0","react-dom":"^19.1.0","vite":"^7.1.0"},"devDependencies":{"linkedom":"^0.18.13"}}
